@@ -16,6 +16,7 @@ Il produit 4 figures:
 - figure 3: évolution temporelle de la taille moyenne du paquet d'onde $\ell(t) = \sqrt{( \langle\psi(\mathbf{r},t)|\mathbf{r}^2|\psi(\mathbf{r},t)\rangle}$);
 - figure 4: évolution temporelle de la probabilité de présence du système dans tout l'espace (on vérifie que $\langle\psi|\psi\rangle(t)=1$ pour tout $t$).
 
-<img src = "M 128-dt 0.005-tmax_7.0-sigma 5.0-V0 0.1-lambdaR_3.0.gif">
+<img src = "Figures/Fig 1 animation M 128-dt 0.005-tmax_7.0-sigma 5.0-V0 0.1-lambdaR_3.0.gif">
+
 
 
