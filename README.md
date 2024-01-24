@@ -15,3 +15,7 @@ Il produit 4 figures:
 - figure 2: capture de la figure 1 (profile 2D de $|\psi(x,y,t)|^2$) à un instant $t=t_{max}/2$;
 - figure 3: évolution temporelle de la taille moyenne du paquet d'onde $\ell(t) = \sqrt{( \langle\psi(r,t)|\mathbf{r}^2|\psi(r,t)\rangle}$);
 - figure 4: évolution temporelle de la probabilité de présence du système dans tout l'espace (on vérifie que $\langle\psi|\psi\rangle(t)=1$ pour tout $t$).
+
+<img src = "M 128-dt 0.005-tmax_7.0-sigma 5.0-V0 0.1-lambdaR_3.0.gif">
+
+
