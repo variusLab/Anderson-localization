@@ -1,13 +1,11 @@
 # Anderson localization of cold atoms in a two-dimensionnal laser speckle disordered potential
-# in the presence of Rashba-type spin-orbit couplig
-# Author : Varvara Petrova
-# Summer 2016
+# in the presence of Rashba-type spin-orbit interaction
 
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.fftpack import fft2, ifft2, fftshift
 from scipy.integrate import simps
-import matplotlib.animation as animation # nee
+import matplotlib.animation as animation # requiert ffmpeg
 
 # Definition des fonctions
 
